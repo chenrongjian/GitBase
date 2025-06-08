@@ -2,7 +2,7 @@
 title: 我的mcp server导航网站
 description: 这是一个mcp server的导航网站
 date: '2025-06-08T11:01:51.020Z'
-lastModified: '2025-06-08T11:41:24.963Z'
+lastModified: '2025-06-08T11:41:26.521Z'
 ---
 
 
