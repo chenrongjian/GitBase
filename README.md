@@ -62,7 +62,7 @@ ACCESS_PASSWORD=your_secure_password
 
 ## 📄 开源许可
 
-本项目采用 [MIT License](https://github.com/chenrongjian/GitBase/LICENSE)，可自由用于商业用途。
+本项目采用 [MIT License](https://github.com/chenrongjian/GitBase/blob/main/LICENSE)，可自由用于商业用途。
 
 ## 📢 反馈渠道
 
