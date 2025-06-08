@@ -1,10 +1,9 @@
 {
-  "name": "GitBase12",
-  "title": "GitBase - Open Source Dynamic Website CMS Without Database",
-  "description": "A Next.js site with Tailwind & Shadcn/UI, using GitHub API for content management. No database needed for dynamic updates.",
-  "slogan": "Open Source Dynamic Website CMS Without Database",
-  "intro": "GitBase is a dynamic, database-free website built with Next.js, Tailwind CSS, and Shadcn/UI, featuring a content management system powered by the GitHub API for seamless updates and administration.",
-  "url": "https://gitbase.app",
-  "author": "GitBase",
-  "footerText": "GitBase. All rights reserved."
-}
+  "name": "MCP Navigator",
+  "title": "MCP Server - Open Source Dynamic Navigation Management",
+  "description": "A Next.js navigation server with Tailwind & Shadcn/UI, using GitHub API for content management. No database required for dynamic route updates.",
+  "slogan": "Open Source Dynamic Navigation Management",
+  "intro": "MCP Server is a dynamic, database-free navigation system built with Next.js, Tailwind CSS, and Shadcn/UI, featuring a content management system powered by the GitHub API for seamless route updates and administration.",
+  "url": "https://mcp.nobugcode.com",
+  "author": "nobugcode.com",
+  "footerText": "MCP Server. All rights reserved."}

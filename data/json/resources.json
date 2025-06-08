@@ -1,37 +1,22 @@
 [
   {
-    "name": "Next.js",
-    "description": "The React Framework for the Web",
-    "url": "https://nextjs.org/"
+    "name": "Modelscope MCP",
+    "description": "Consolidating Premium MCP Resources to Expand the Frontiers of Model Intelligence",
+    "url": "https://modelscope.cn/mcp"
   },
   {
-    "name": "Tailwind CSS",
-    "description": "A utility-first CSS framework",
-    "url": "https://tailwindcss.com/"
+    "name": "Tencent MCP",
+    "description": "Discover a Vast Pool of High-Performance MCP Servers",
+    "url": "https://cloud.tencent.com/developer/mcp"
   },
   {
-    "name": "Shadcn/ui",
-    "description": "Re-usable components built with Radix UI and Tailwind CSS",
-    "url": "https://ui.shadcn.com/"
+    "name": "Volcengine MCP",
+    "description": "One-Click Tool Access, Seamless Model Integration",
+    "url": "https://www.volcengine.com/mcp-marketplace"
   },
   {
-    "name": "Vercel",
-    "description": "Cloud platform for static sites and Serverless Functions",
-    "url": "https://vercel.com/"
-  },
-  {
-    "name": "Github.com",
-    "description": "The world's leading platform for version control and collaborative software development.",
-    "url": "https://github.com/"
-  },
-  {
-    "name": "Woy.ai",
-    "description": "AI Tools Directory",
-    "url": "https://woy.ai"
-  },
-  {
-    "name": "Music Player",
-    "description": "Online Music Player",
-    "url": "https://musicplayer-olive.vercel.app/"
+    "name": "MCP.SO",
+    "description": "Connect the world with MCP",
+    "url": "https://mcp.so/"
   }
 ]
