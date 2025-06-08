@@ -8,10 +8,10 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    default: 'MCPServer',
-    template: '%s | MCPServer'
+    default: 'MCPServer - Developer Navigation Hub',
+    template: '%s | MCPServer Developer Resources'
   },
-  description: 'Open source dynamic website without database, built with Next.js and GitHub API',
+  description: 'Curated developer tools & technical references platform built with Next.js and GitHub API integration',
 }
 
 interface RootLayoutProps {
