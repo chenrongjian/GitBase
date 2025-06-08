@@ -9,7 +9,7 @@ export function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-gray-600 tracking-wider uppercase">About</h3>
             <p className="mt-4 text-base text-gray-500">
-              GitBase is an open-source dynamic website solution without a traditional database, built with Next.js and powered by GitHub.
+              MCPServer is a minimalist navigation hub for developers, providing curated links to essential developer tools, documentation resources, and technical references.
             </p>
           </div>
           <div>
@@ -36,18 +36,13 @@ export function Footer() {
             <h3 className="text-sm font-semibold text-gray-600 tracking-wider uppercase">Connect</h3>
             <ul className="mt-4 space-y-4">
               <li>
-                <a href="https://gitbase.app/" target="_blank" className="text-base text-gray-500 hover:text-gray-900">
-                  GitBase
+                <a href="https://mcp.nobugcode.com/" target="_blank" className="text-base text-gray-500 hover:text-gray-900">
+                  MCPServer
                 </a>
               </li>
               <li>
-                <a href="https://github.com/qiayue/gitbase" target="_blank" className="text-base text-gray-500 hover:text-gray-900">
+                <a href="https://github.com/chenrongjian/GitBase" target="_blank" className="text-base text-gray-500 hover:text-gray-900">
                   GitHub
-                </a>
-              </li>
-              <li>
-                <a href="https://twitter.com/gefei55" target="_blank" className="text-base text-gray-500 hover:text-gray-900">
-                  Twitter
                 </a>
               </li>
             </ul>
