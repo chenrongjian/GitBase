@@ -64,7 +64,13 @@ ACCESS_PASSWORD=your_secure_password
 
 本项目采用 [MIT License](https://github.com/chenrongjian/GitBase/blob/main/LICENSE)，可自由用于商业用途。
 
+
 ## 📢 反馈渠道
 
 遇到问题请通过以下方式反馈：
 - [GitHub Issues](https://github.com/chenrongjian/GitBase/issues)
+
+## 🎉 感谢
+
+本项目基于以下项目二次开发：
+- [GitBase](https://github.com/qiayue/GitBase)
